@@ -1,4 +1,4 @@
-php相关资料
+相关资料
 =
 [wamp数据库mysql解决中文乱码问题方法](http://blog.csdn.net/hky_php/article/details/49475569)<br/>
 [PHP操作redis](http://www.cnblogs.com/catcrazy/p/6415802.html)<br/>
